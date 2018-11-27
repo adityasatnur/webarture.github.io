@@ -8,7 +8,10 @@ html {
 
 @media only screen and (max-width:600px) {
   footer, #contact, .s-testimonials, #services, #about{
-    width: 124vw;
+    width: 126% !important;
+  }
+  .s-home{
+    width: 126% !important;
   }
 }
 @media only screen and (max-width:400px) {
